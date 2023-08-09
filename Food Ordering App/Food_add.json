@@ -1,0 +1,16 @@
+{
+    "1": {
+        "FoodName": "Chicken Biryani",
+        "Quantity": "2",
+        "Price": 300.0,
+        "Discount": 75.0,
+        "Stock": "40"
+    },
+    "2": {
+        "FoodName": "CB",
+        "Quantity": "3",
+        "Price": 500.0,
+        "Discount": 125.0,
+        "Stock": "40"
+    }
+}

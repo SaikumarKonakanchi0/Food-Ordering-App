@@ -1,0 +1,9 @@
+{
+    "1": {
+        "FoodName": "Mutton Biryani",
+        "Quantity": "2",
+        "Price": 300.0,
+        "Discount": 75.0,
+        "Stock": "40"
+    }
+}
